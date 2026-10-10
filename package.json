@@ -1,0 +1,13 @@
+{
+  "name": "student-task-manager-github-project",
+  "version": "1.0.0",
+  "description": "Version control, testing and CI demonstration",
+  "main": "src/taskManager.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "license": "MIT"
+}
